@@ -16,8 +16,7 @@ export function Testimonials() {
     {
       name: 'Ananya Jain',
       role: 'Tech Lead',
-      quote: "Skydeep is a game changer, making it incredibly easy to get a car whenever you need one. The booking process is seamless, and the service is consistently professional.
-.",
+      quote: "Skydeep is a game changer, making it incredibly easy to get a car whenever you need one. The booking process is seamless, and the service is consistently professional.",
       rating: 5,
     },
     {
